@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="KATA_PP_2_3_1_S:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/KATA_PP_2_3_1_S_Web_exploded/WEB-INF</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="KATA_PP_2_3_1_S/web/Web" />
+    </root>
+  </artifact>
+</component>
